@@ -1,3 +1,0 @@
-# rudig
-
-Hello all
